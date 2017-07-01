@@ -1,0 +1,6 @@
+Name:Andrew Whitaker
+Experience:2
+Skills: { Eye_Contact Emotion Evaluation }
+Mentee:None
+Mentor:None
+Roles: { S TTM S E GE }
